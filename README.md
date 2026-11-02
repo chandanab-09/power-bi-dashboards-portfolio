@@ -77,7 +77,8 @@ Customer retention and churn analysis, with slicers for Country, Gender and Year
 
 Indian startup investment intelligence from 2019 to 2026, with a Select Year slicer.
 
-![Startup Funding India Dashboard](images/dashboard_page_03)
+![Startup Funding India Dashboard](images/dashboard_page_03.jpeg)
+
 
 ### Key Metrics
 
