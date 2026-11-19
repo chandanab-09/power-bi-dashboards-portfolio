@@ -1,8 +1,10 @@
 # Power BI Dashboards Portfolio
 
-Hi, I'm **Chandana**, an aspiring Data Analyst / Power BI Developer from Bengaluru, India. This repo has 6 interactive Power BI dashboards I built to practise data cleaning, modelling and visual storytelling.
+Raw data in, clear decisions out. Six interactive Power BI dashboards that turn messy datasets into stories you can explore, from cyber threats and customer churn to city traffic, startup funding, retail sales and the data job market.
 
-**Tools used:** Power BI Desktop, Power Query, DAX, Excel, SQL (MySQL)
+**Every project follows the same flow:** clean the data in Power Query → build measures in DAX → design an interactive report in Power BI Desktop.
+
+**Tools:** Power BI Desktop | Power Query | DAX | Excel | SQL (MySQL)
 
 📁 **Download the full report:** [`Dashboard_Portfolio.pbix`](Dashboard_Portfolio.pbix)
 
